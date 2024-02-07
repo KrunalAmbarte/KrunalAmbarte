@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Krunal Ambarte</h1>
 
--  I’m interested in new technologies and love in working with them. <br>
+-  ❤ I’m interested in new technologies and love in working with them. <br>
 - ⚡ Start journey with Full stack development.<br>
 - 🌱 I’m currently learning Python.<br>
 - 👀 Seeking an opportunity with an esteemed organisation.<br>
