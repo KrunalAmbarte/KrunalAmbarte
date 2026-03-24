@@ -1,6 +1,6 @@
 👋 Hi, I'm Krunal Ambarte
 
-🎓 MBA Candidate (Narayana Business School, GTU) | BCA Background
+🎓 MBA Candidate (Narayana Business School, GTU) | BCA Background <br>
 📊 Aspiring Business Analyst & Data Analyst
 🔍 Passionate about turning data into decisions and business problems into structured solutions
 🛠️ Currently building: E-Commerce Customer Behaviour Analysis (RFM Segmentation | Python · SQL · Power BI)
