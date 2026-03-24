@@ -1,20 +1,28 @@
-<h1>👋 Hi, I’m Krunal Ambarte</h1>
+👋 Hi, I'm Krunal Ambarte
 
--  ❤ I’m interested in new technologies and love in working with them. <br>
-- ⚡ Start journey with Full stack development.<br>
-- 🌱 I’m currently learning Python.<br>
-- 👀 Seeking an opportunity with an esteemed organisation.<br>
-- 📫 Reach out on - krunal.a45@gmail.com<br><br>
+🎓 MBA Candidate (Narayana Business School, GTU) | BCA Background
+📊 Aspiring Business Analyst & Data Analyst
+🔍 Passionate about turning data into decisions and business problems into structured solutions
+🛠️ Currently building: E-Commerce Customer Behaviour Analysis (RFM Segmentation | Python · SQL · Power BI)
+📬 Reach out: krunal.a45@gmail.com
 
 
-<h1>Technical Skills</h1>
+## 🛠️ Technical Skills
 
-- Front-End Development : HTML, CSS, JavaScript, Bootstrap5.<br>
-- Back-End Development : NodeJS, API Design, Database Management ( Microsoft SQL Server, MySQL ).<br>
-- Language/Tools : C++, C#, ASP.NET, .NET Core.<br>
-- Versioning Tool : Git, Github.<br>
-- MVC and MVVM architectural patterns.<br>
-- Security implementation and best practices.<br>
+**Data Analysis & Visualization**
+Python (Pandas, NumPy) · SQL · Power BI · Microsoft Excel (Pivot Tables, VLOOKUP, Dashboards)
+
+**Business Analysis**
+Requirement Gathering · BRD Documentation · User Stories · Process Mapping · Stakeholder Communication
+
+**Database & Querying**
+MySQL · SQL Server · Data Cleaning · Exploratory Data Analysis (EDA)
+
+**Tools & Platforms**
+VS Code · Jupyter Notebook · Git · GitHub · MS Office Suite
+
+**Domains Explored**
+Fintech · Digital Banking · E-Commerce · Financial Analysis
 
 
 
